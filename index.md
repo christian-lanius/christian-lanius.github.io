@@ -4,20 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome!
+I am Christian, a PhD student at (IDS at RWTH Aachen University)[https://www.ids.rwth-aachen.de].
 
-## Research Interests
+I received my B.Sc. in electrical engineering from RWTH Aachen University, Germany, in 2016 and my M.Sc. in 2019. My focus was on micro-and nano-electronics. During this time, I was working for and being supervised at (ICE at RWTH Aachen University)[https://www.ice.rwth-aachen.de].
+As part of a double degree program, I simultaneously received an additional M.Sc. from Keio University, Japan. At Keio University, I was part of (AOKI medialab)[https://aoki-medialab.jp/home-en/] and my focus was on deep-learning for image-recognition.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+## Research
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+My research interests focus on low power digital design with a focus on **digital Compute-in-Memory**. It ranges from efficient implementations for memory-bound problems such as **MAC** for neural networks or **sorting** to the EDA side of it on how such designs can be efficiently described, implemented and optimized.
