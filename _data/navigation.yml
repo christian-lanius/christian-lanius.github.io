@@ -1,0 +1,23 @@
+main:
+
+  - title: "Openings"
+    url: /openings/
+    right: true 
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Services"
+    url: /services/
+
+  - title: "Talks"
+    url: /talks/
+
+  #- title: "Teaching"
+  #  url: ./teaching.html
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Home"
+    url: /
