@@ -1,9 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Mailing Address:</strong> 501 E. Daniel St., MC-493, Champaign, IL 61820-6211
+<strong>Office Location:</strong> <a href="https://maps.app.goo.gl/vhpFYrizs8Xsjwif6">Room 311, UMIC Building, Mies-van-der-Rohe-Straße 15, 52074 Aachen</a>
 <br />
-<strong>Office Location:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">Room 5125, 614 E. Daniel St.</a>
+<strong>Email:</strong> <email>lanius (at) ids.rwth-aachen.de</email>
 <br />
-<strong>Email:</strong> <email>lyy (at) illinois.edu</email>
-<br />
-<strong>Phone:</strong> (217) 300-0910</p>
+<strong>Phone:</strong> +49 241 8097576</p>
