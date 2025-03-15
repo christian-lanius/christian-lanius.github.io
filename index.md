@@ -5,10 +5,10 @@ layout: homepage
 ## About Me
 
 Welcome!
-I am Christian, a PhD student at (IDS at RWTH Aachen University)[https://www.ids.rwth-aachen.de].
+I am Christian, a PhD student at [IDS at RWTH Aachen University](https://www.ids.rwth-aachen.de).
 
-I received my B.Sc. in electrical engineering from RWTH Aachen University, Germany, in 2016 and my M.Sc. in 2019. My focus was on micro-and nano-electronics. During this time, I was working for and being supervised at (ICE at RWTH Aachen University)[https://www.ice.rwth-aachen.de].
-As part of a double degree program, I simultaneously received an additional M.Sc. from Keio University, Japan. At Keio University, I was part of (AOKI medialab)[https://aoki-medialab.jp/home-en/] and my focus was on deep-learning for image-recognition.
+I received my B.Sc. in electrical engineering from RWTH Aachen University, Germany, in 2016 and my M.Sc. in 2019. My focus was on micro-and nano-electronics. During this time, I was working for and being supervised at [ICE at RWTH Aachen University](https://www.ice.rwth-aachen.de).
+As part of a double degree program, I simultaneously received an additional M.Sc. from Keio University, Japan. At Keio University, I was part of [AOKI medialab](https://aoki-medialab.jp/home-en/) and my focus was on deep-learning for image-recognition.
 
 
 ## Research
