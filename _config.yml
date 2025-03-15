@@ -1,43 +1,57 @@
 # Basic Information 
 title: Christian Lanius
-position: PhD Student
-affiliation: RWTH Aachen University
-affiliation_link: https://www.ids.rwth-aachen.de
-affiliation_logo: ./assets/img/ids.png
+position: Ph.D. Student
+affiliation: IDS @ RWTH Aachen University
 email: lanius (at) ids.rwth-aachen.de
 
 # Search Engine Optimization (SEO)
-keywords: Christian Lanius
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Christian Lanius, digital CIM
+description: This is the personal website of Christian Lanius, a PhD student at RWTH Aachen University.
 canonical: https://lanius.org
-description: Christian Lanius is a PhD at RWTH Aachen University at the chair for digital circuit design. His research interests include low power digital circuit design and compute-in-memory.
 
-# The option is used to enable the Illinois template.
-enable_hopkins_logo: false
-
-# The option is used to show the last update time.
-enable_last_update: false
-
-# Links
-link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.de/citations?user=pNNGRacAAAAJ
+#cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/christian-lanius
 linkedin: https://www.linkedin.com/in/christian-lanius/
-#twitter: https://twitter.com/YaoyaoLiu1/
+#twitter: https://twitter.com/
 
-# Images 
-#avatar: https://img.yliu.me/avatar_new.jpg
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
-# Footnotes
-#footnote: Feel free to use my website's source code.
-#footnote_link: https://github.com/yaoyao-liu/minimal-light
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+#enable_footnote: true
 
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
 
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+#google_analytics: UA-111540567-4
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
-  - build.sh
   - Gemfile
   - Gemfile.lock
   - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
   - LICENSE
-  - CNAME
+  - minimal-light.gemspec
+  - html_source_file/
