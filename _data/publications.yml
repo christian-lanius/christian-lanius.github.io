@@ -8,7 +8,24 @@ main:
     bibtex: ./assets/files/islped_cim23.bibtex
     image: ./assets/img/teaser_islped_cim.png
     notes: Oral Presentation
-
+    
+- title: Hardware Trojans in fdSOI
+    authors: <strong>Christian Lanius</strong>, Florian Freye, Shutao Zhang, Tobias Gemmeke
+    conference_short: ISLPED
+    conference: International Symposium on Low Power Electronics and Design <strong>(ISLPED)</strong>, 2023
+    pdf: https://ieeexplore.ieee.org/abstract/document/10244573
+    bibtex: ./assets/files/islped_trojan23.bibtex
+    image: ./assets/img/teaser_islped_trojan.png
+    notes: Oral Presentation
+    
+- title: Fully Digital, Standard-Cell-Based Multifunction Compute-in-Memory Arrays for Genome Sequencing
+    authors: <strong>Christian Lanius</strong>, Tobias Gemmeke
+    conference_short: TVLSI
+    conference: IEEE Transactions on Very Large Scale Integration (VLSI) Systems <strong>(TVLSI)</strong>, 2023
+    pdf: https://ieeexplore.ieee.org/abstract/document/10251048
+    bibtex: ./assets/files/tvlsi23.bibtex
+    image: ./assets/img/teaser_tvlsi23.png
+    
   - title: Multi-Function CIM Array for Genome Alignment Applications built with Fully Digital Flow
     authors: <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: NorCAS
@@ -17,3 +34,4 @@ main:
     bibtex: ./assets/files/norcas22.bibtex
     image: ./assets/img/teaser_norcas22.png
     notes: Best Paper Award Candidate  
+    
