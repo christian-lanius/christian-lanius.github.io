@@ -1,53 +1,10 @@
 main:
 
-  - title: Automatic Generation of Structured Macros Using Standard Cells ‒ Application to CIM
-    authors: <strong>Christian Lanius</strong>, Jie Lou, Johnson Loh, Tobias Gemmeke
-    conference_short: ISLPED
-    conference: International Symposium on Low Power Electronics and Design <strong>(ISLPED)</strong>, 2023
-    pdf: https://ieeexplore.ieee.org/abstract/document/10244608
-    bibtex: ./assets/files/islped_cim23.bibtex
-    image: ./assets/img/teaser_islped_cim.png
-    notes: Oral Presentation
+  - title: All-Digital Time-Domain Compute-in-Memory Engine for Binary Neural Networks With 1.05 POPS/W Energy Efficiency
+    authors: Jie Lou, <strong>Christian Lanius</strong>, Florian Freye, Tim Stadtmann, Tobias Gemmeke
+    conference_short: ESSCIRC
+    conference: European Conference on Solid-State Circuits <strong>(ESSCIRC)</strong>, 2022
+    pdf: https://ieeexplore.ieee.org/abstract/document/9911382
+    bibtex: ./assets/files/esscirc22.bibtex
+    image: ./assets/img/teaser_esscirc22.png
 
-  - title: Hardware Trojans in fdSOI
-    authors: <strong>Christian Lanius</strong>, Florian Freye, Shutao Zhang, Tobias Gemmeke
-    conference_short: ISLPED
-    conference: International Symposium on Low Power Electronics and Design <strong>(ISLPED)</strong>, 2023
-    pdf: https://ieeexplore.ieee.org/abstract/document/10244573
-    bibtex: ./assets/files/islped_trojan23.bibtex
-    image: ./assets/img/teaser_islped_trojan.PNG
-    notes: Oral Presentation
-    
-  - title: Fully Digital, Standard-Cell-Based Multifunction Compute-in-Memory Arrays for Genome Sequencing
-    authors: <strong>Christian Lanius</strong>, Tobias Gemmeke
-    conference_short: TVLSI
-    conference: IEEE Transactions on Very Large Scale Integration (VLSI) Systems <strong>(TVLSI)</strong>, 2023
-    pdf: https://ieeexplore.ieee.org/abstract/document/10251048
-    bibtex: ./assets/files/tvlsi23.bibtex
-    image: ./assets/img/teaser_tvlsi23.PNG
-    notes: Journal Extension
-    
-  - title: Multi-Function CIM Array for Genome Alignment Applications built with Fully Digital Flow
-    authors: <strong>Christian Lanius</strong>, Tobias Gemmeke
-    conference_short: NorCAS
-    conference: IEEE Nordic Circuits and Systems Conference <strong>(NorCAS)</strong>, 2022
-    pdf: https://ieeexplore.ieee.org/abstract/document/9934470
-    bibtex: ./assets/files/norcas22.bibtex
-    image: ./assets/img/teaser_norcas22.png
-    notes: Best Paper Award Candidate  
-    
-  - title: Deep-Learning Based Depth Completion for Autonomous Driving Applications
-    authors: <strong>Christian Lanius</strong>, David Hedderich, Shawan Mohammed, Gerd Ascheid, Volker Lücken
-    conference: Smart Transportation, 2021
-    pdf: https://www.taylorfrancis.com/chapters/edit/10.1201/9780367808150-9/deep-learning-based-depth-completion-autonomous-driving-applications-christian-lanius-david-hedderich-shawan-mohammed-gerd-ascheid-volker-l%C3%BCcken
-    image: ./assets/img/teaser_smart_trans21.png
-    notes: Book Chapter
-    
-  - title: Single Image, Context Aware Action Estimation in Sports
-    authors: <strong>Christian Lanius</strong>, Daisuke Kobayashi, Kazushige Ouchi, Yoshimitsu Aoki
-    conference_short: SITIS
-    conference: International IEEE Conference on Signal-Image Technologies and Internet-Based System <strong>(SITIS)</strong>, 2018
-    pdf: https://ieeexplore.ieee.org/abstract/document/8706211
-    bibtex: ./assets/files/sitis18.bibtex
-    image: ./assets/img/teaser_sitis18.png
-    notes: Oral Presentation
