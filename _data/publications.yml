@@ -36,6 +36,13 @@ main:
     image: ./assets/img/teaser_norcas22.png
     notes: Best Paper Award Candidate  
     
+  - title: Deep-Learning Based Depth Completion for Autonomous Driving Applications
+    authors: <strong>Christian Lanius</strong>, David Hedderich, Shawan Mohammed, Gerd Ascheid, Volker Lücken
+    conference: Smart Transportation, 2021
+    pdf: https://www.taylorfrancis.com/chapters/edit/10.1201/9780367808150-9/deep-learning-based-depth-completion-autonomous-driving-applications-christian-lanius-david-hedderich-shawan-mohammed-gerd-ascheid-volker-l%C3%BCcken
+    image: ./assets/img/teaser_smart_trans21.png
+    notes: Book Chapter
+    
   - title: Single Image, Context Aware Action Estimation in Sports
     authors: <strong>Christian Lanius</strong>, Daisuke Kobayashi, Kazushige Ouchi, Yoshimitsu Aoki
     conference_short: SITIS
