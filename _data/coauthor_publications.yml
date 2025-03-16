@@ -3,7 +3,7 @@ main:
   - title: "An Energy Efficient All-Digital Time-Domain Compute-in-Memory Macro Optimized for Binary Neural Networks"
     authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: TCAS I
-    conference: IEEE Transactions on Circuits and Systems I: Regular Papers
+    conference: "IEEE Transactions on Circuits and Systems I: Regular Papers"
     pdf: https://ieeexplore.ieee.org/abstract/document/10308418
     bibtex: ./assets/files/tcas23.bibtex
     image: ./assets/img/teaser_tcas23.png
