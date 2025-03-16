@@ -24,7 +24,7 @@ main:
     conference: IEEE Transactions on Very Large Scale Integration (VLSI) Systems <strong>(TVLSI)</strong>, 2023
     pdf: https://ieeexplore.ieee.org/abstract/document/10251048
     bibtex: ./assets/files/tvlsi23.bibtex
-    image: ./assets/img/teaser_tvlsi23.png
+    image: ./assets/img/teaser_tvlsi23.PNG
     notes: Journal Extension
     
   - title: Multi-Function CIM Array for Genome Alignment Applications built with Fully Digital Flow
