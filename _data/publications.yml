@@ -15,7 +15,7 @@ main:
     conference: International Symposium on Low Power Electronics and Design <strong>(ISLPED)</strong>, 2023
     pdf: https://ieeexplore.ieee.org/abstract/document/10244573
     bibtex: ./assets/files/islped_trojan23.bibtex
-    image: ./assets/img/teaser_islped_trojan.png
+    image: ./assets/img/teaser_islped_trojan.PNG
     notes: Oral Presentation
     
   - title: Multi-Function CIM Array for Genome Alignment Applications built with Fully Digital Flow
