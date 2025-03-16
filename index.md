@@ -14,3 +14,5 @@ As part of a double degree program, I simultaneously received an additional M.Sc
 ## Research
 
 My research interests focus on low power digital design with a focus on **digital Compute-in-Memory**. It ranges from efficient implementations for memory-bound problems such as **MAC** for neural networks or **sorting** to the EDA side of it on how such designs can be efficiently described, implemented and optimized.
+
+{% include_relative _includes/publications.md %}
