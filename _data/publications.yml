@@ -8,6 +8,15 @@ main:
     bibtex: ./assets/files/islped_cim23.bibtex
     image: ./assets/img/teaser_islped_cim.png
     notes: Oral Presentation
+
+  - title: Hardware Trojans in fdSOI
+    authors: <strong>Christian Lanius</strong>, Florian Freye, Shutao Zhang, Tobias Gemmeke
+    conference_short: ISLPED
+    conference: International Symposium on Low Power Electronics and Design <strong>(ISLPED)</strong>, 2023
+    pdf: https://ieeexplore.ieee.org/abstract/document/10244573
+    bibtex: ./assets/files/islped_trojan23.bibtex
+    image: ./assets/img/teaser_islped_trojan.png
+    notes: Oral Presentation
     
   - title: Multi-Function CIM Array for Genome Alignment Applications built with Fully Digital Flow
     authors: <strong>Christian Lanius</strong>, Tobias Gemmeke
