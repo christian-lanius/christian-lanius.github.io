@@ -8,3 +8,10 @@ main:
     bibtex: ./assets/files/esscirc22.bibtex
     image: ./assets/img/teaser_esscirc22.png
 
+  - title: Density-Based Statistical Clustering: Enabling Sidefire Ultrasonic Traffic Sensing in Smart Cities
+    authors: Volker Lücken, Nils Voss, Julien Schreier, Thomas Baag, Michael Gehring, Matthias Raschen, <strong>Christian Lanius</strong>, Rainer Leupers, Gerd Ascheid
+    conference_short: JourAdvTrans
+    conference: Journal of Advanced Transportation, 2018
+    pdf: https://onlinelibrary.wiley.com/doi/full/10.1155/2018/93172912
+    bibtex: ./assets/files/wiley2018.bibtex
+    image: ./assets/img/teaser_wiley18.png
