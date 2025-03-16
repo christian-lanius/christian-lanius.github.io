@@ -36,3 +36,11 @@ main:
     image: ./assets/img/teaser_norcas22.png
     notes: Best Paper Award Candidate  
     
+  - title: Single Image, Context Aware Action Estimation in Sports
+    authors: <strong>Christian Lanius</strong>, Daisuke Kobayashi, Kazushige Ouchi, Yoshimitsu Aoki
+    conference_short: SITIS
+    conference: International IEEE Conference on Signal-Image Technologies and Internet-Based System <strong>(SITIS)</strong>, 2018
+    pdf: https://ieeexplore.ieee.org/abstract/document/8706211
+    bibtex: ./assets/files/sitis18.bibtex
+    image: ./assets/img/teaser_sitis18.png
+    notes: Oral Presentation
