@@ -1,5 +1,13 @@
 main:
 
+  - title: "Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices"
+    authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
+    conference_short: GLSVLSI
+    conference: Proceedings of the Great Lakes Symposium on VLSI <strong>(GLSVLSI)</strong>, 2023
+    pdf: https://dl.acm.org/doi/abs/10.1145/3583781.3590220
+    bibtex: ./assets/files/glsvlsi23.bibtex
+    image: ./assets/img/teaser_glsvlsi23.png
+
   - title: All-Digital Time-Domain Compute-in-Memory Engine for Binary Neural Networks With 1.05 POPS/W Energy Efficiency
     authors: Jie Lou, <strong>Christian Lanius</strong>, Florian Freye, Tim Stadtmann, Tobias Gemmeke
     conference_short: ESSCIRC
