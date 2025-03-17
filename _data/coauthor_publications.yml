@@ -7,6 +7,13 @@ main:
     bibtex: ./assets/files/jxcdc24.bibtex
     image: ./assets/img/teaser_jxcdc24.png
     
+  - title: "nAIxt: A Light-Weight Processor Architecture for Efficient Computation of Neuron Models"
+    authors: Kevin Kauth, <strong>Christian Lanius</strong>, Tobias Gemmeke
+    conference_short: ARCS
+    conference: Springer Architecture of Computer Systems <strong>(ARCS)</strong>, 2024
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-66146-4_1
+    image: ./assets/img/teaser_arcs24.png
+    
   - title: "Efficient ASIC Architecture for Low Latency Classic McEliece Decoding"
     authors: Daniel Fallnich, <strong> Christian Lanius</strong>, Shutao Zhang, Tobias Gemmeke
     conference_short: TCHES
