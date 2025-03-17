@@ -1,5 +1,13 @@
 main:
 
+  - title: "Efficient ASIC Architecture for Low Latency Classic McEliece Decoding"
+    authors: Daniel Fallnich, <strong> Christian Lanius</strong>, Shutao Zhang, Tobias Gemmeke
+    conference_short: TCHES
+    conference: IACR Transactions on Cryptographic Hardware and Embedded Systems <strong>(TCHES)</strong>, 2024
+    pdf: https://tches.iacr.org/index.php/TCHES/article/view/11434
+    bibtex: ./assets/files/tches24.bibtex
+    image: ./assets/img/teaser_tches24.png
+    
   - title: "An Energy Efficient All-Digital Time-Domain Compute-in-Memory Macro Optimized for Binary Neural Networks"
     authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: TCAS I
