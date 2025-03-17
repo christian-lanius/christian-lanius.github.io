@@ -1,5 +1,12 @@
 main:
-
+  - title: "Scaling Logic Area With Multitier Standard Cells"
+    authors: Florian Freye, <strong>Christian Lanius</strong>, Hossein Hashemi Shadmehri, Diana Göhringer, Tobias Gemmeke
+    conference_short: JXCDC
+    conference: IEEE Journal on Exploratory Solid-State Computational Devices and Circuits <strong>(JXCDC)</strong>, 2024
+    pdf: https://ieeexplore.ieee.org/abstract/document/10720813
+    bibtex: ./assets/files/jxcdc24.bibtex
+    image: ./assets/img/teaser_jxcdc24.png
+    
   - title: "Efficient ASIC Architecture for Low Latency Classic McEliece Decoding"
     authors: Daniel Fallnich, <strong> Christian Lanius</strong>, Shutao Zhang, Tobias Gemmeke
     conference_short: TCHES
