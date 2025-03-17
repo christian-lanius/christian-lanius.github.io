@@ -12,6 +12,7 @@ main:
     conference_short: ARCS
     conference: Springer Architecture of Computer Systems <strong>(ARCS)</strong>, 2024
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-66146-4_1
+    bibtex: ./assets/files/arcs24.bibtex
     image: ./assets/img/teaser_arcs24.png
     
   - title: "Efficient ASIC Architecture for Low Latency Classic McEliece Decoding"
