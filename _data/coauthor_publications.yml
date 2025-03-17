@@ -1,4 +1,16 @@
 main:
+  - title: "GUPA: Group-Wise Uniform Pruning Accelerator for Depthwise Separable Convolution"
+    authors: Yi Chen, Malte Wabnitz, Jie Lou, <strong>Christian Lanius</strong>, Tobias Gemmeke
+    conference_short: COOL Chips
+    conference: IEEE Symposium on Low-Power and High-Speed Chips and Systems </strong>(COOL Chips)</strong>, 2ß25
+    notes: Accepted for publication
+    
+  - title: "An All-Digital Time-Domain Compute-in-Memory Engine for Convolutional Neural Networks in 22nm"
+    authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
+    conference_short: ISCAS
+    conference: IEEE International Symposium on Circuits and Systems </strong>(ISCAS)</strong>, 2ß25
+    notes: Accepted for publication
+    
   - title: "Merits of Time-Domain Computing for VMM – A Quantitative Comparison"
     authors: Florian Freye, Jie Lou, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: ISQED
