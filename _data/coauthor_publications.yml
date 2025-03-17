@@ -16,6 +16,14 @@ main:
     bibtex: ./assets/files/tcas23.bibtex
     image: ./assets/img/teaser_tcas23.png
     
+  - title: "An Energy-Efficient and Area-Efficient Depthwise Separable Convolution Accelerator with Minimal On-Chip Memory Access"
+    authors: Yi Chen, Jie Lou, <strong>Christian Lanius</strong>, Florian Freye, Johnson Loh, Tobias Gemmeke
+    conference_short: VLSI-SOC
+    conference: IFIP International Conference on Very Large Scale Integration <strong>(VLSI-SoC)</strong>, 2023
+    pdf: https://ieeexplore.ieee.org/abstract/document/10321918
+    bibtex: ./assets/files/vlsi_soc23.bibtex
+    image: ./assets/img/teaser_vlsisoc23.png
+    
   - title: "Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices"
     authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: GLSVLSI
@@ -36,6 +44,6 @@ main:
     authors: Volker Lücken, Nils Voss, Julien Schreier, Thomas Baag, Michael Gehring, Matthias Raschen, <strong>Christian Lanius</strong>, Rainer Leupers, Gerd Ascheid
     conference_short: JourAdvTrans
     conference: Journal of Advanced Transportation, 2018
-    pdf: https://onlinelibrary.wiley.com/doi/full/10.1155/2018/93172912
+    pdf: https://onlinelibrary.wiley.com/doi/10.1155/2018/9317291
     bibtex: ./assets/files/wiley2018.bibtex
     image: ./assets/img/teaser_wiley18.png
