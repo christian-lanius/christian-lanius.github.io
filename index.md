@@ -12,6 +12,10 @@ As part of a double degree program, I simultaneously received an additional M.Sc
 
 <p style="color:red;">I am graduating in Q4 2024 and am looking forward to new experiences and challenges. If you are looking for a driven digital design engineer with experience in RTL modeling, synthesis and backend flows (including regular placement and routing) please reach out to me!</p>
 
+## Research
+
+My research interests focus on low power digital design with a focus on **digital Compute-in-Memory**. It ranges from efficient implementations for memory-bound problems such as **MAC** for neural networks or **sorting** to the EDA side of it on how such designs can be efficiently described, implemented and optimized.
+
 ## Skills
 - Languages:
   - German (native)
@@ -28,11 +32,8 @@ As part of a double degree program, I simultaneously received an additional M.Sc
   - Cadence: Genus, Innovus, Voltus, Tempus, Conforml, Quantus
   - Synopsys: Euclide, DC
   - Others: Linux, git
+
  
-## Research
-
-My research interests focus on low power digital design with a focus on **digital Compute-in-Memory**. It ranges from efficient implementations for memory-bound problems such as **MAC** for neural networks or **sorting** to the EDA side of it on how such designs can be efficiently described, implemented and optimized.
-
 {% include_relative _includes/publications.md %}
 
 Click [here](/publications.html#coauthor_publications) to also check out other publications I was involved in!
