@@ -1,5 +1,5 @@
 main:
-  - title: "A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applicationsn"
+  - title: "A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applications"
     authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: GLSVLSI
     conference: Great Lakes Symposium on VLSI <strong>(GLSVLSI)</strong>, 2025
