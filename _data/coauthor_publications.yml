@@ -1,4 +1,10 @@
 main:
+  - title: "A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applicationsn"
+    authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
+    conference_short: GLSVLSI
+    conference: Great Lakes Symposium on VLSI <strong>(GLSVLSI)</strong>, 2025
+    notes: Accepted for publication
+    
   - title: "GUPA: Group-Wise Uniform Pruning Accelerator for Depthwise Separable Convolution"
     authors: Yi Chen, Malte Wabnitz, Jie Lou, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: COOL Chips
