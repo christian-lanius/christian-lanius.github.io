@@ -1,5 +1,10 @@
 main:
-
+  - title: "A 1.27 fJ/B/transition Digital Compute-in-Memory Architecture for Non-Deterministic Finite Automata Evaluation"
+    authors: <strong>Christian Lanius</strong>, Florian Freye, Tobias Gemmeke
+    conference_short: GLSVLSI
+    conference: Great Lakes Symposium on VLSI <strong>(GLSVLSI)</strong>, 2025
+    notes: Oral Presentation, Accepted for publication
+    
   - title: Automatic Generation of Structured Macros Using Standard Cells ‒ Application to CIM
     authors: <strong>Christian Lanius</strong>, Jie Lou, Johnson Loh, Tobias Gemmeke
     conference_short: ISLPED
