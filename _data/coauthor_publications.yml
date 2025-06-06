@@ -9,7 +9,8 @@ main:
     authors: Yi Chen, Malte Wabnitz, Jie Lou, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: COOL Chips
     conference: IEEE Symposium on Low-Power and High-Speed Chips and Systems <strong>(COOL Chips)</strong>, 2025
-    notes: Accepted for publication
+    pdf: https://ieeexplore.ieee.org/abstract/document/11018601
+    image: ./assets/img/teaser_cool25.png
     
   - title: "An All-Digital Time-Domain Compute-in-Memory Engine for Convolutional Neural Networks in 22nm"
     authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
