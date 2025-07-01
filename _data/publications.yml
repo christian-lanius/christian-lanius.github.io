@@ -3,7 +3,10 @@ main:
     authors: <strong>Christian Lanius</strong>, Florian Freye, Tobias Gemmeke
     conference_short: GLSVLSI
     conference: Great Lakes Symposium on VLSI <strong>(GLSVLSI)</strong>, 2025
-    notes: Oral Presentation, Accepted for publication
+    bibtex: ./assets/files/glsvlsi25_nfa.bibtex
+    image: ./assets/img/teaser_glsvlsi25_1.png
+    pdf: https://dl.acm.org/doi/10.1145/3716368.3735157
+    notes: Oral Presentation
     
   - title: Automatic Generation of Structured Macros Using Standard Cells ‒ Application to CIM
     authors: <strong>Christian Lanius</strong>, Jie Lou, Johnson Loh, Tobias Gemmeke
