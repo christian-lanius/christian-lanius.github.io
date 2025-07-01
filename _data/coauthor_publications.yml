@@ -3,7 +3,9 @@ main:
     authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: GLSVLSI
     conference: Great Lakes Symposium on VLSI <strong>(GLSVLSI)</strong>, 2025
-    notes: Accepted for publication
+    image: ./assets/img/teaser_glsvlsi25_2.png
+    pdf: https://dl.acm.org/doi/10.1145/3716368.3735161
+    bibtex: ./assets/files/glsvlsi25_tdc.bibtex
     
   - title: "GUPA: Group-Wise Uniform Pruning Accelerator for Depthwise Separable Convolution"
     authors: Yi Chen, Malte Wabnitz, Jie Lou, <strong>Christian Lanius</strong>, Tobias Gemmeke
@@ -16,7 +18,9 @@ main:
     authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: ISCAS
     conference: IEEE International Symposium on Circuits and Systems <strong>(ISCAS)</strong>, 2025
-    notes: Accepted for publication
+    pdf: https://ieeexplore.ieee.org/document/11043778
+    image: ./assets/img/teaser_iscas25.png
+    bibtex: ./assets/files/iscas25.bibtex
     
   - title: "Merits of Time-Domain Computing for VMM – A Quantitative Comparison"
     authors: Florian Freye, Jie Lou, <strong>Christian Lanius</strong>, Tobias Gemmeke
