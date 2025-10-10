@@ -1,4 +1,11 @@
 main:
+  - title: "System Level Acceleration of Banded Smith Waterman on FPGA"
+    authors: <strong>Christian Lanius</strong>, Ibrahim Burak Yorulmaz, Tobias Gemmeke
+    conference_short: NORCAS
+    conference: IEEE Nordic Circuits and Systems Conference <strong>(NorCAS)</strong>, 2025
+    image: ./assets/img/teaser_norcas25.png
+    notes: Accepted for Publication  
+    
   - title: "A 1.27 fJ/B/transition Digital Compute-in-Memory Architecture for Non-Deterministic Finite Automata Evaluation"
     authors: <strong>Christian Lanius</strong>, Florian Freye, Tobias Gemmeke
     conference_short: GLSVLSI
