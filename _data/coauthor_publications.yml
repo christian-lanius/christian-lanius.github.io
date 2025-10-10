@@ -3,7 +3,7 @@ main:
     authors: Malte Wabnitz, Max Nilovic, Finn Scholz, Dominik Friedrich, <strong>Christian Lanius</strong>, Jie Lou, Tobias Gemmeke
     conference_short: ASP-DAC
     conference: Asia and South Pacific Design Automation Conference <strong>(ASP-DAC)</strong>, 2026
-    image: ./assets/img/teaser_aspdac.png
+    image: ./assets/img/teaser_aspdac26.png
     notes: Accepted for Publication
     
   - title: "4T Bitcell for Digital Compute-in-Memory"
