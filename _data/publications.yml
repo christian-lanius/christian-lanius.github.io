@@ -4,7 +4,8 @@ main:
     conference_short: NORCAS
     conference: IEEE Nordic Circuits and Systems Conference <strong>(NorCAS)</strong>, 2025
     image: ./assets/img/teaser_norcas25.png
-    notes: Accepted for Publication  
+    pdf: https://ieeexplore.ieee.org/document/11231279
+    notes: Oral Presentation
     
   - title: "A 1.27 fJ/B/transition Digital Compute-in-Memory Architecture for Non-Deterministic Finite Automata Evaluation"
     authors: <strong>Christian Lanius</strong>, Florian Freye, Tobias Gemmeke
