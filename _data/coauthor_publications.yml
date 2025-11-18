@@ -11,14 +11,15 @@ main:
     conference_short: NORCAS
     conference: IEEE Nordic Circuits and Systems Conference <strong>(NorCAS)</strong>, 2025
     image: ./assets/img/teaser_norcas25_4t.png
-    notes: Accepted for Publication
+    notes: Best Paper Award
+    pdf: https://ieeexplore.ieee.org/document/11231198
     
   - title: "A (145,128) DEC-TED BCH Decoder with Composite Field and Redundant Arithmetic"
     authors: Seyed Hossein Hashemi Shadmehri, <strong>Christian Lanius</strong>, Tobias Gemmeke
     conference_short: NORCAS
     conference: IEEE Nordic Circuits and Systems Conference <strong>(NorCAS)</strong>, 2025
     image: ./assets/img/teaser_norcas25_bch.png
-    notes: Accepted for Publication  
+    pdf: https://ieeexplore.ieee.org/document/11231200
   
   - title: "A 22nm 96.83-TOPS/W Time-Domain Compute-in-Memory Engine Utilizing Mixed-Fidelity for Edge-AI Applications"
     authors: Jie Lou, Florian Freye, <strong>Christian Lanius</strong>, Tobias Gemmeke
