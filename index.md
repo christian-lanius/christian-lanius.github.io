@@ -10,7 +10,7 @@ I am Christian, a PhD student at [IDS at RWTH Aachen University](https://www.ids
 I received my B.Sc. in electrical engineering from RWTH Aachen University, Germany, in 2016 and my M.Sc. in 2019. My focus was on micro-and nano-electronics. During this time, I was working for and being supervised at [ICE at RWTH Aachen University](https://www.ice.rwth-aachen.de).
 As part of a double degree program, I simultaneously received an additional M.Sc. from Keio University, Japan. At Keio University, I was part of [AOKI medialab](https://aoki-medialab.jp/home-en/) and my focus was on deep-learning for image-recognition.
 
-<p style="color:red;">I am graduating in Q4 2025 and am looking forward to new experiences and challenges. If you are looking for a driven digital design engineer with experience in RTL modeling, synthesis and backend flows (including regular placement and routing) please reach out to me!</p>
+<p style="color:red;">I am graduating in Q1 2026 and am looking forward to new experiences and challenges. If you are looking for a driven digital design engineer with experience in RTL modeling, synthesis and backend flows (including regular placement and routing) please reach out to me!</p>
 
 ## Research
 
